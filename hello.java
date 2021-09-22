@@ -1,8 +1,9 @@
 
 public class Hello
 {
-	public class void main()
+	public static void main(String [] args)
 	{
-		syso("A")
+		System.out.println("A");
 
 	}
+}
