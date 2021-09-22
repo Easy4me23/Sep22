@@ -1,4 +1,4 @@
-public class hii
+public class newhello
 {
 public static void main(String [] args)
 {
